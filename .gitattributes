@@ -1,2 +1,2 @@
-.jdks/corretto-17.0.8/lib/modules filter=lfs diff=lfs merge=lfs -text
+# .jdks/corretto-17.0.8/lib/modules filter=lfs diff=lfs merge=lfs -text
 *.modules filter=lfs diff=lfs merge=lfs -text
